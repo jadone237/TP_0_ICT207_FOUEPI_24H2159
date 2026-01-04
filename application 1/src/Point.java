@@ -21,5 +21,5 @@ public class Point {
         y += dy;
     }
 
-    
+
 }
